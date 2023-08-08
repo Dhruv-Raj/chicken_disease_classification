@@ -1,5 +1,6 @@
 # Chicken Disease Classification Project
 - This project is help to detect whether chicken has been affected by disease or not based on the stool of chickens.
+- ChickenDisease model help us to classify weather chicken is affected by ``Coccidiosis disease `` or not.
 
 ## Workflows
 1. Update config.yaml
