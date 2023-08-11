@@ -17,7 +17,8 @@ class DataIngestionTrainingPipeline:
             data_ingestion.extract_zip_file()
         except Exception as e:
             raise e
-        
+
+
 if __name__=='__main__':
     try:
         logging.info(f'>>>>>> stage {STAGE_NAME} started <<<<<<<')
